@@ -7,10 +7,16 @@
 - [ ] プーリング処理
 - [ ] 畳み込み処理
 - [ ] 双方向ニューロン生成(ニューラルネット階層生成)
+- [ ] 並列処理化(thread)
+- [ ] 並行処理化(mpi、cupy、pytorch)
 
 ## CNN
 
-畳み込みニューラルネットワークとは
+
+## RNN
+
+
+## GAN
 
 
 ### 自分用メモ：
@@ -23,9 +29,8 @@
 
 [^1]: 	小高 知宏 『自然言語処理と深層学習』 株式会社オーム社 平成29年3月25日
 [^2]: 高野 祐輝 『並行プログラミング入門』 株式会社オライリー・ジャパン 2021年8月20日
->>
-	[pytorch](https://yutaroogawa.github.io/pytorch_tutorials_jp/)
-	[scikit-learn](https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_2_0.html)
-	[numpy](https://numpy.org/doc/1.24/reference/index.html#reference)
-	[mpi4py](https://mpi4py.readthedocs.io/en/stable/index.html)
-	[cupy](https://cupy.dev/)
+[^3]: [pytorch](https://yutaroogawa.github.io/pytorch_tutorials_jp/)
+[^4]: [scikit-learn](https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_2_0.html)
+[^5]: [numpy](https://numpy.org/doc/1.24/reference/index.html#reference)
+[^6]: [mpi4py](https://mpi4py.readthedocs.io/en/stable/index.html)
+[^7]: [cupy](https://cupy.dev/)

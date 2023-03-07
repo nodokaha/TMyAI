@@ -1,5 +1,5 @@
+from mpi4py import MPI
 import numpy
-import mpi4py
 
 
 def __init__:
@@ -13,7 +13,7 @@ def iter_pooling(conv_out, i, j, POOLSIZE=3):
     return conv_out[i+POOLSIZE/2][j+POOLSIZE]
 
 def convolution():
-
+    
 
 def getdata():
 
